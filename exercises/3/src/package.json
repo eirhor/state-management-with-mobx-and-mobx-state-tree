@@ -1,0 +1,14 @@
+{
+    "name": "mobx-workshop-exercise-3",
+    "version": "1.0.0",
+    "description": "",
+    "keywords": [],
+    "main": "index.js",
+    "dependencies": {
+        "mobx": "4.1.1",
+        "mobx-react": "5.0.0",
+        "mobx-react-devtools": "5.0.1",
+        "react": "15.5.3",
+        "react-dom": "15.5.3"
+    }
+}
